@@ -28,8 +28,9 @@ A simple and fun web application that fetches and displays random cat images usi
 ## ▶ How to Run Locally
 ```bash
 git clone https://github.com/anilmonitor/catImageGen.git
-cd catImageGen  - Open index.html in your browser.
+cd catImageGen
+Open index.html in your browser.
+```
 
 ## 👤 Author
 Mr. Anil Kumar - LinkedIn: @anilmonitorr IG: @anilmonitor
-Made with ❤️ by Anil
