@@ -19,8 +19,8 @@ A simple and fun Random Dog Image Generator that allows users to fetch and view 
 
 
 ## 🌐 Live Demo
-- **Netlify:** dogimagegenbymonitor.netlify.app
-- **Vercel:** 
+- **Netlify:** https://dogimagegenbymonitor.netlify.app
+- **Vercel:** https://dogimagegenbymonitor.vercel.app
 
 
 ## 🚀 How to Run Locally
