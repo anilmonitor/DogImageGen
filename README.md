@@ -1,6 +1,6 @@
 # initialized new project
 
-# Random cat image Generator
+# Cat Random image Generator
 
 # Technology used - HTML, CSS, JS, Axios library
 
