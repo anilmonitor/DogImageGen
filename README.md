@@ -1,36 +1,36 @@
-# 🐱 Cat Random Image Generator
-A simple and fun web application that fetches and displays random cat images using a public API.
+# 🐶 Random Dog Image Generator
+A simple and fun Random Dog Image Generator that allows users to fetch and view random dog images with a single click using a public API.
 
 ## ✨ Features
-- Generate random cat images
-- Fast API fetching
-- Clean and responsive UI
-- Beginner-friendly project
+- Fetch random dog images instantly  
+- One-click image generation  
+- Clean and responsive UI  
+- Fast API response  
 
-## 🛠 Technologies Used
-- HTML  
-- CSS  
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
 - JavaScript  
-- Axios Library (via CDN)
+- Axios (via CDN)  
+
+## 🔗 API Used
+- Dog Image API: https://dog.ceo/api/breeds/image/random  
+- Axios CDN:  https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js  
 
 
-## 🌐 API Used for Fetching Images
-- API Endpoint:  
-  https://dog.ceo/api/breeds/image/random  
-- Axios CDN:  
-  https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js
-
-## 🚀 Live Demo
-- **Netlify:** https://catimagegenbymonitor.netlify.app
-- **Vercel:** https://catimagegenbymonitor.vercel.app
+## 🌐 Live Demo
+- **Netlify:** https://dogimagegenbymonitor.netlify.app/  
+- **Vercel:** https://dogimagegenbymonitor.vercel.app/  
 
 
-## ▶ How to Run Locally
+## 🚀 How to Run Locally
 ```bash
-git clone https://github.com/anilmonitor/catImageGen.git
-cd catImageGen
-Open index.html in your browser.
+git clone https://github.com/anilmonitor/dogImageGen.git
+cd dogImageGen
 ```
+Open index.html in your browser.
 
-## 👤 Author
-Mr. Anil Kumar - LinkedIn: @anilmonitorr IG: @anilmonitor
+# 👤 Author
+Anil Kumar
+LinkedIn: @anilmonitorr | IG: @anilmonitor
+Passionate Web Developer 🚀
